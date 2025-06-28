@@ -1,0 +1,16 @@
+[
+    {
+        "id": "f7aac6dc-fbc8-4927-89e0-d1b15dee4c2d",
+        "title": "Daily Standup",
+        "description": "Quick team sync on updating event.",
+        "start_time": "2025-07-01T09:00:00",
+        "end_time": "2025-07-01T09:15:00"
+    },
+    {
+        "id": "24a45501-65ce-4f5b-b2d5-46ee9454ed2b",
+        "title": "Daily Standup",
+        "description": "Quick team sync on progress and blockers.",
+        "start_time": "2025-07-01T09:00:00",
+        "end_time": "2025-07-01T09:15:00"
+    }
+]
