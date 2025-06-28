@@ -56,6 +56,7 @@ PUT /events/<event_id>: Updates an event.
 DELETE /events/<event_id>: Deletes an event.
 
 Testing with Postman
+Collection URL: https://www.postman.com/material-architect-44568090/event-handling-project/collection/zok11o0/event-scheduler-system
 Use Postman. First, create an event (POST) to get its unique id. Then use this id for PUT (update) and DELETE actions. Use GET /events to see all events.
 
 Testing Real-time Reminders
